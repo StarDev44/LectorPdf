@@ -1,6 +1,6 @@
 <?php  
     
-    $title = 'PDF Viewer';
+    $title = 'PDF Upload';
 
     include 'Views/layout.php'; 
 
