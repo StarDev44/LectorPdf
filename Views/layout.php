@@ -1,4 +1,4 @@
-<?php     include 'PDF_lector.php';  ?>
+<?php     include dirname(__DIR__).'/PDF_lector/PDF_lector.php';  ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -17,17 +17,17 @@
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand fw-bold" href="index.php">PDF Lector</a>
+                <a class="navbar-brand fw-bold" href="/PDF_LECTOR/">PDF Lector</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="text-center collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="Upload.php">Upload PDF</a>
+                            <a class="nav-link" aria-current="page" href="/PDF_LECTOR/Pages/Upload.php">Upload PDF</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="View.php">PDF Viewer</a>
+                            <a class="nav-link" href="/PDF_LECTOR/Pages/View.php">PDF Viewer</a>
                         </li>    
                     </ul>
                 </div>
