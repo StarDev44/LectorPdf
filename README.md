@@ -8,4 +8,5 @@ you can see each page as a picture.
 ## Dependencies
 
 - Laravel Framework
-- 
+- Bootstrap 5
+- Library ImageMagick
