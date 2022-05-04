@@ -27,7 +27,7 @@
                             <a class="nav-link" aria-current="page" href="/PDF_LECTOR/Pages/Upload.php">Upload PDF</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/PDF_LECTOR/Pages/View.php">PDF Viewer</a>
+                            <a class="nav-link" href="/PDF_LECTOR/Pages/Viewer.php">PDF Viewer</a>
                         </li>    
                     </ul>
                 </div>
