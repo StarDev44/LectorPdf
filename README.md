@@ -7,4 +7,5 @@ you can see each page as a picture.
 
 ## Dependencies
 
-- Laravel Framework ![Laravel Logo](https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png)
+- Laravel Framework
+- 
