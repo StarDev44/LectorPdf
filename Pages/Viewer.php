@@ -10,8 +10,12 @@
 
     // print_r($pictures);
 
+    $img = "";
+
     for ($i=0; $i < count($pictures); $i++) 
     { 
-        echo '<img src="'.$pictures[$i].'" width="300">';
+        $img.= '<img class="col-4 mb-2" src="'.$pictures[$i].'" >';
     }
+
+    include dirname(__DIR__).'/Views/viewer_view.php'; 
 ?>
